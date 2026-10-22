@@ -1,0 +1,917 @@
+{
+  "title": "Eylul archived image import",
+  "source_folder": "https://drive.google.com/drive/folders/1Vdgxhu1UJfKntEkkTRsgg1lQYg90y0y4",
+  "created": "2026-10-22",
+  "note": "All source originals stay in Google Drive. Generated JPEG images in this public repository are retrievable without login. Editorial approval still required before publication.",
+  "settings": {
+    "output_format": "jpg",
+    "jpeg_quality": 92,
+    "preserve_dimensions": true,
+    "auto_publish_to_threads": false
+  },
+  "photos": [
+    {
+      "source_number": 1,
+      "source_filename": "hf_20261022_030647_407f882a-6dac-45e9-a602-c1127ce4171c.png",
+      "drive_id": "1mk3zXtIrUQQZnbhRrkYioP6qVAmXwKi3",
+      "output_filename": "eylul-001.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 2,
+      "source_filename": "hf_20261022_030921_86508bd9-a715-4e9c-9e06-56d49d74b0ea.png",
+      "drive_id": "1_Xy3p8qZ_d6NpMfVH-7PMTsoYp4geaQo",
+      "output_filename": "eylul-002.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 3,
+      "source_filename": "hf_20261022_031259_d717b103-1a08-4fb5-af97-0c15e94811ea.png",
+      "drive_id": "1A85Oo5aSjGJ0dzKMg1q6JNN2-JWWonq9",
+      "output_filename": "eylul-003.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 4,
+      "source_filename": "hf_20261022_031423_46a22d95-3b38-4365-9350-84d88a100ad5.png",
+      "drive_id": "1k5PpnzD_uWY4yyLp8vvTz_e9NSffnt2A",
+      "output_filename": "eylul-004.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 5,
+      "source_filename": "hf_20261022_025029_b58306e9-7381-4131-8dc1-91b9d3ae5ffa.png",
+      "drive_id": "1EkUc1Qwndbt189bzHjyQppzB0xnS5hQB",
+      "output_filename": "eylul-005.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 6,
+      "source_filename": "hf_20261022_025123_6e231190-6b5c-4089-89d0-ab84ef977c43.png",
+      "drive_id": "1TSlEHifbfn9uII-6-7Q3w_vvYsBJ1EpX",
+      "output_filename": "eylul-006.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 7,
+      "source_filename": "hf_20261022_030837_5e6308d1-10c7-4322-8748-39ffddc5018f.png",
+      "drive_id": "1zhDIGuSGwWNjgGCilkRa2SppfBR1SHr7",
+      "output_filename": "eylul-007.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 8,
+      "source_filename": "hf_20261022_025123_3652f615-3c8f-4dcc-ac97-9204d09195cc.png",
+      "drive_id": "1zbZhjYwiP85tJ_5WZqUTagwLZQnemIph",
+      "output_filename": "eylul-008.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 9,
+      "source_filename": "hf_20261022_030719_5d7d5b2c-55ce-4dde-af36-9723aaa28426.png",
+      "drive_id": "1zJeN9r53V8rKn75KbHlvjnifJb8kyOUV",
+      "output_filename": "eylul-009.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 10,
+      "source_filename": "hf_20261022_024629_a44d9661-4711-461f-a5e5-d85cfadb0b57.png",
+      "drive_id": "1zJ-yGr1ASSXmyCzb_YK_q7jiNWqOs5Hm",
+      "output_filename": "eylul-010.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 11,
+      "source_filename": "hf_20261022_025858_9a8715f6-362f-45e9-936b-be1240f349f7.png",
+      "drive_id": "1yxAvMzlF7F1R4xfAAMusLJhZKZ65XNdB",
+      "output_filename": "eylul-011.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 12,
+      "source_filename": "hf_20261022_024747_779a6004-c7eb-4373-a102-0360d1cfa73e.png",
+      "drive_id": "1yTEy_tlK1cOvNoqz25H9bqOcBBbKWdyC",
+      "output_filename": "eylul-012.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 13,
+      "source_filename": "hf_20261022_024747_bf08be90-b96f-48b1-9baa-f75de1e484e8.png",
+      "drive_id": "1yEIh8w_FFpopXsFMHc8xduCEalRIWvYT",
+      "output_filename": "eylul-013.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 14,
+      "source_filename": "hf_20261022_013054_f958fdc1-976e-4074-9a89-02c7ec101289.png",
+      "drive_id": "1wo1K0vUVs-3MgcpVplL9cOTsxc98pVHL",
+      "output_filename": "eylul-014.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 15,
+      "source_filename": "hf_20261022_012925_865989bb-2b9f-4e03-8844-5c5bca9b3b3b.png",
+      "drive_id": "1wVwzLVsI2x7FPWk9GoA6qzcV0Ak5s_Tp",
+      "output_filename": "eylul-015.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 16,
+      "source_filename": "hf_20261022_012717_35a021f2-fd36-4df6-847b-42893a26cdb4.png",
+      "drive_id": "1wUJJ-UuhSnsNwFp0YSUUcsyZT6H68O-2",
+      "output_filename": "eylul-016.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 17,
+      "source_filename": "hf_20261022_024629_3c242a50-bcbc-45df-9943-4591dd457716.png",
+      "drive_id": "1w3hINVODHKus15K7Wnkv7_aebc3WJPu5",
+      "output_filename": "eylul-017.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 18,
+      "source_filename": "hf_20261022_021442_f309284b-c3eb-43c7-b65f-11b4511567fa.png",
+      "drive_id": "1w2hVkMlNmRju7bvuBWYih_9k8EU1X525",
+      "output_filename": "eylul-018.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 19,
+      "source_filename": "hf_20261022_012942_46dbd3fd-688f-4471-b711-7033ff15f015.png",
+      "drive_id": "1w0gt9W0NZuAxIEAVj0kFviWHJ9E3W-NJ",
+      "output_filename": "eylul-019.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 20,
+      "source_filename": "hf_20261022_023221_db3a46ec-61c7-4f58-bc62-493ffe0cf477.png",
+      "drive_id": "1vWK0oL_EeJ2lu3RrUL81ACzMr2IwjX0-",
+      "output_filename": "eylul-020.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 21,
+      "source_filename": "hf_20261022_021343_ba7c2d27-4020-4f85-ab92-a356a03250e7.png",
+      "drive_id": "1vC6SK4h46ij9Xk41bK4vaQ5V5IKTHmUT",
+      "output_filename": "eylul-021.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 22,
+      "source_filename": "hf_20261022_023221_e85795aa-cab0-47bd-b52d-ec09d5569c3f.png",
+      "drive_id": "1uuQp_g7bJtCdAmqPPnu5tU-Lsisi5L6G",
+      "output_filename": "eylul-022.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 23,
+      "source_filename": "hf_20261022_025232_328098a6-1626-4821-8301-c36e807a57d8.png",
+      "drive_id": "1t-OuL1F7_ZesJNffsd6E76ijRvUoZCRP",
+      "output_filename": "eylul-023.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 24,
+      "source_filename": "hf_20261022_032158_baadeb12-b86e-4c4a-a56c-bc8b93da6992.png",
+      "drive_id": "1smufqvMcMlxO3m2Nbd1nA17ZSgjgWP0f",
+      "output_filename": "eylul-024.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 25,
+      "source_filename": "hf_20261022_013031_e642a175-9c97-45fc-a3bd-6211632b5aa2.png",
+      "drive_id": "1rze81NEpea93exFvUDPTjL56QjvY60iW",
+      "output_filename": "eylul-025.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 26,
+      "source_filename": "hf_20261022_013732_085fc5dc-f816-4972-bedd-49b6a93cb7b2.png",
+      "drive_id": "1roeiYD-U6El1bXuhAbpd7HLJwyrhNSvq",
+      "output_filename": "eylul-026.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 27,
+      "source_filename": "hf_20261022_031824_d8e12ffd-0000-41ad-a037-25588f7f6f58.png",
+      "drive_id": "1rYbZ32AIXBpgLfXPDaBmpSC2iFT76twl",
+      "output_filename": "eylul-027.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 28,
+      "source_filename": "hf_20261022_021124_09fec009-7e5a-43c8-801a-716bc84ff3e7.png",
+      "drive_id": "1qVW48-mxpHT6oy5QHz0QCQoDzDdftTq5",
+      "output_filename": "eylul-028.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 29,
+      "source_filename": "hf_20261022_031333_fd5075a0-3d98-482d-8d5b-d716faf0b623.png",
+      "drive_id": "1qH2EKqCPgPLZS_64-KlgsowPJelDHxjC",
+      "output_filename": "eylul-029.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 30,
+      "source_filename": "hf_20261022_030104_03bb6d87-dd48-474b-8449-1f22c7152d4c.png",
+      "drive_id": "1pvC_OhrMkddhXT2PpepOJzQQ82vbbcNo",
+      "output_filename": "eylul-030.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 31,
+      "source_filename": "hf_20261022_025734_bd76f858-8e08-4721-a2d7-83514626139c.png",
+      "drive_id": "1pi_BQcEg24RUrqXiWk55TdQD_aWF4jC1",
+      "output_filename": "eylul-031.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 32,
+      "source_filename": "hf_20261022_030921_6aeda3d9-6e0b-4937-bacb-05bf39c43ac5.png",
+      "drive_id": "1p3PZqBQaKWndyElrt23obw8GaFW9jBcF",
+      "output_filename": "eylul-032.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 33,
+      "source_filename": "hf_20261022_030837_acd21ac0-6dd8-4cbf-8c57-6614a9c00432.png",
+      "drive_id": "1oRouKWDsfMIlueK7F-E4zAGBM4oqCphn",
+      "output_filename": "eylul-033.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 34,
+      "source_filename": "hf_20261022_030647_2a231c16-71c7-474f-b73b-edcb120dda2c.png",
+      "drive_id": "1mo9Z4rKjdTW9ffnMY_vr6EFcjwBzXIy5",
+      "output_filename": "eylul-034.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 35,
+      "source_filename": "hf_20261022_023848_41fc6f2e-ed1b-425a-8de0-f773d1ecdb23.png",
+      "drive_id": "1mSqnjnvfAHtja43naVRuT75IHkfXgrSI",
+      "output_filename": "eylul-035.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 36,
+      "source_filename": "hf_20261022_025417_ee52bddc-5eec-41de-86f6-003c1190745e.png",
+      "drive_id": "1lfcsqajjnDfp9rilSxgXjHAFUr_E1kUI",
+      "output_filename": "eylul-036.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 37,
+      "source_filename": "hf_20261022_031631_d171f00e-49f0-415b-8cf4-ff259f9e8f9f.png",
+      "drive_id": "1lT_DLTxCFLjpLLHogEbu3384tUuJ5G35",
+      "output_filename": "eylul-037.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 38,
+      "source_filename": "hf_20261022_030452_2f9086ed-2619-44e7-9d66-abdcf0c57b7c.png",
+      "drive_id": "1kjY41cQcqke-cNMGFd0fgOCIbeTkOcdg",
+      "output_filename": "eylul-038.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 39,
+      "source_filename": "hf_20261022_031020_b2bbc690-d31e-48b2-bc82-c9961fce8c30.png",
+      "drive_id": "1kRvuhE-8u9MQOJTt8TJnekpygFN46EDv",
+      "output_filename": "eylul-039.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 40,
+      "source_filename": "hf_20261022_031749_fdbc1dd2-09c2-456f-a03b-8a4c76bc6d13.png",
+      "drive_id": "1kIdCgcJGHP_oo5Fx3u12eXSZ_TX5Aojq",
+      "output_filename": "eylul-040.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 41,
+      "source_filename": "hf_20261022_013601_733bc682-0ded-4c36-b63c-26e2710564cf.png",
+      "drive_id": "1kEQb36KeF5f2cWD9ZECSTtclU0YvROBN",
+      "output_filename": "eylul-041.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 42,
+      "source_filename": "hf_20261022_025325_a12edd69-6682-4c95-a704-4bd5d7a45454.png",
+      "drive_id": "1jxIEkqxB9kNxI8BjV7POYreBQJT--e4l",
+      "output_filename": "eylul-042.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 43,
+      "source_filename": "hf_20261022_025816_c86b7289-e1c4-493e-8c06-f380e5c48e71.png",
+      "drive_id": "1jwZuE_YqrhVz5HxLhEqlJa7js8MncwvR",
+      "output_filename": "eylul-043.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 44,
+      "source_filename": "hf_20261022_031931_43280b08-fc3f-45b0-ae31-87b23ef75ae2.png",
+      "drive_id": "1jUDUrViFJLcROjIjGMp10DzBPdO6JseS",
+      "output_filename": "eylul-044.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 45,
+      "source_filename": "hf_20261022_021124_1bdb2f20-0b9d-4d44-b381-eecc0700648d.png",
+      "drive_id": "1jHGFqQ5FNejIweTs6Bg719cp8QE4Ac76",
+      "output_filename": "eylul-045.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 46,
+      "source_filename": "hf_20261022_025029_d49da060-4610-4931-bc62-af945a05c209.png",
+      "drive_id": "1j2tMP9LI1608mivqlSgJC4qj7mkeqKev",
+      "output_filename": "eylul-046.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 47,
+      "source_filename": "hf_20261022_030719_cc546b72-95e9-46ec-ad11-a6756b90037a.png",
+      "drive_id": "1it-mpWC2aJ7FOzNIvFGapPB6UFaz6DTO",
+      "output_filename": "eylul-047.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 48,
+      "source_filename": "hf_20261022_030319_1aaf13b2-6e06-406d-a212-906c6ddc694e.png",
+      "drive_id": "1iU8-mfJ6rgy8nsNXcKg84y2ey2O6WVy8",
+      "output_filename": "eylul-048.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 49,
+      "source_filename": "hf_20261022_025232_be81d4b4-7d1b-45fc-a553-3dd42ce10c5b.png",
+      "drive_id": "1haybOKifRq4sOEhWVSr20o-ie8OyWPRy",
+      "output_filename": "eylul-049.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 50,
+      "source_filename": "hf_20261022_030452_8a1b2b89-7e69-4819-85c3-f33baab739fc.png",
+      "drive_id": "1gb2nASEWGx0PmrG6qiMDOAifDwEsSo-l",
+      "output_filename": "eylul-050.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 51,
+      "source_filename": "hf_20261022_025325_8a1316e9-1008-4d62-b2ec-fa6cb1c02c3a.png",
+      "drive_id": "1gUm4sqKW4eTiBEwa2tXPR3C0EZ-IEUkA",
+      "output_filename": "eylul-051.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 52,
+      "source_filename": "hf_20261022_031423_2c39855b-8bac-4d47-a9ca-94977a6b4c72.png",
+      "drive_id": "1gUi-dToalTkbevTHTAZ6KA4u_vbxvebL",
+      "output_filename": "eylul-052.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 53,
+      "source_filename": "hf_20261022_031824_e3169e92-d898-4aa7-96bc-37972bd07148.png",
+      "drive_id": "1fBjMAwyPgyZCsgt05R9Cdx0ASwS1SIs3",
+      "output_filename": "eylul-053.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 54,
+      "source_filename": "hf_20261022_031631_546029fc-e0bb-4997-aff4-385068126874.png",
+      "drive_id": "1diwFReOfbifw1DpOeSumE9vK-wLuKkN7",
+      "output_filename": "eylul-054.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 55,
+      "source_filename": "hf_20261022_030319_9a55bd87-0e56-4a74-b54e-b59662af1ae3.png",
+      "drive_id": "1bm3uugmb9usvfo-vZ69aEptEli1H33VD",
+      "output_filename": "eylul-055.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 56,
+      "source_filename": "hf_20261022_023557_b2066208-099d-4fe8-b292-ebcc4be95797.png",
+      "drive_id": "1b5bsOeFexOa69gN54cBJkUExtf-8-F1D",
+      "output_filename": "eylul-056.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 57,
+      "source_filename": "hf_20261022_030104_fbe04f39-cccd-4c3a-bae5-176e4a110fee.png",
+      "drive_id": "1_dFkpkodLizzWUvNTV3lc-CX7LCOMQSF",
+      "output_filename": "eylul-057.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 58,
+      "source_filename": "hf_20261022_025029_015d4531-8052-46ec-b15b-75bbb562c613.png",
+      "drive_id": "1_Y17kS9ssgIL-5I1fRu3Wj67QtRC2dBi",
+      "output_filename": "eylul-058.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 59,
+      "source_filename": "hf_20261022_022911_40110e25-2fcf-4634-acb0-e9018efcd50a.png",
+      "drive_id": "1_5gQSub3KGgXDWCuBGxFHQkLjs-LHuzm",
+      "output_filename": "eylul-059.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 60,
+      "source_filename": "hf_20261022_030248_0c2ef3d4-8bd1-4fee-ad35-65350fb8822f.png",
+      "drive_id": "1ZyfQUitim8lGMJMM_oQZqAP-kJUnG5L6",
+      "output_filename": "eylul-060.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 61,
+      "source_filename": "hf_20261022_025816_08b735e6-5f48-400d-a2e4-1628fa49f5dd.png",
+      "drive_id": "1YZTqADELj2IlaS6DbizT1L4AV7hHty5C",
+      "output_filename": "eylul-061.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 62,
+      "source_filename": "hf_20261022_031824_ee9b505c-b7e5-4b2b-a76c-c56c5c7abe0e.png",
+      "drive_id": "1YU8DWSS8ftrcQikIVjrFH3Kf1XvjkRNA",
+      "output_filename": "eylul-062.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 63,
+      "source_filename": "hf_20261022_025232_e5a45809-2284-48e3-877b-c6b62f0da9c8.png",
+      "drive_id": "1YBxZlQ-7LFVMsaWG0kkkeXPVqSM0IjoC",
+      "output_filename": "eylul-063.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 64,
+      "source_filename": "hf_20261022_021124_ee9455ee-ad24-48fe-ac7a-442de6716193.png",
+      "drive_id": "1Xj2aJrJBvLC7fTF4MvRmsIZcYoivCzUP",
+      "output_filename": "eylul-064.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 65,
+      "source_filename": "hf_20261022_021124_f505cd86-c20f-4606-ad2e-168a0558b7fe.png",
+      "drive_id": "1XfeTF-AzLJhYaycsLiX3-tQdvBCyj_Zo",
+      "output_filename": "eylul-065.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 66,
+      "source_filename": "hf_20261022_025123_86d3889b-b0d6-465e-b5d6-654c7f685856.png",
+      "drive_id": "1X2zEpt4BYe2OmWJt2O3yi6jMcNIzJmqm",
+      "output_filename": "eylul-066.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 67,
+      "source_filename": "hf_20261022_030104_20b4f737-bbcc-431b-ad4e-ede456bc1ab3.png",
+      "drive_id": "1WtG6Gt05zi0mjemqyEvJgn4uE9gENqZz",
+      "output_filename": "eylul-067.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 68,
+      "source_filename": "hf_20261022_021343_2df0bfe2-38ff-444e-828d-a7618450fe3c.png",
+      "drive_id": "1Vi4k8G3J13eS0GwMzEUCht41pLJpd_8M",
+      "output_filename": "eylul-068.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 69,
+      "source_filename": "hf_20261022_030719_f7f01ae5-52b7-4df8-aa39-0514f50442fa.png",
+      "drive_id": "1VFoqRZdo0bJ3SBk_E1j_Z6N3JeLgPvTc",
+      "output_filename": "eylul-069.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 70,
+      "source_filename": "hf_20261022_012717_02a9e088-b67a-4d75-9db4-515978312ce1.png",
+      "drive_id": "1UzEGAD3oi8M9_b4khT59qd6tEi0dWs8U",
+      "output_filename": "eylul-070.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 71,
+      "source_filename": "hf_20261022_032158_e6cccace-a22e-4114-9809-6adbe0bbe17f.png",
+      "drive_id": "1UpE4UxnV9hqFMA0ayGtCBvuh2TnKlsAE",
+      "output_filename": "eylul-071.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 72,
+      "source_filename": "hf_20261022_023557_ca56d6c2-724f-4803-96c9-07098081e287.png",
+      "drive_id": "1T_wMWv_3ky95P94sIEc5a9OkoLbG2gXY",
+      "output_filename": "eylul-072.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 73,
+      "source_filename": "hf_20261022_024201_bfbfb04e-412c-4a6f-bf17-d38582292e8c.png",
+      "drive_id": "1T0V4DKWpJOwNztz-jqbXkdqUvBBTJreK",
+      "output_filename": "eylul-073.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 74,
+      "source_filename": "hf_20261022_021442_6787df45-3271-456b-bd2e-32ecd3fe1681.png",
+      "drive_id": "1QzaLKZPoYrtQX4r7V7mhUaU9Vt_aMMYK",
+      "output_filename": "eylul-074.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 75,
+      "source_filename": "hf_20261022_024747_b3ba5aaa-7fec-45b2-b504-635fc173a056.png",
+      "drive_id": "1Q9q3oOAzMeMHGcEMpHnTuFD140JBOdyz",
+      "output_filename": "eylul-075.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 76,
+      "source_filename": "hf_20261022_031333_712ac459-c780-43d4-b90d-f1622bfffd7f.png",
+      "drive_id": "1PJBeVsyIWdBmc2BDEJgO4sTYoOSeyNYB",
+      "output_filename": "eylul-076.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 77,
+      "source_filename": "hf_20261022_030248_24d23251-66b7-44d7-babc-0e09fa76ae81.png",
+      "drive_id": "1OwiwYJCnT9LYYO4x7IEWdSE0xhtgTDyU",
+      "output_filename": "eylul-077.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 78,
+      "source_filename": "hf_20261022_030837_5bc35855-7443-4df5-8522-060948fe6da3.png",
+      "drive_id": "1OefkuNx9eu0bD9SMmGFpN7T1Dm08dWPc",
+      "output_filename": "eylul-078.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 79,
+      "source_filename": "hf_20261022_025029_5487e76f-369c-4570-acd1-93c08597cb73.png",
+      "drive_id": "1OSk_5bTO9fdHY_ovJGZM62rS1FGNj2cm",
+      "output_filename": "eylul-079.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 80,
+      "source_filename": "hf_20261022_030647_3c048cf4-fefc-41db-a248-5e87b7ebc946.png",
+      "drive_id": "1NWYU8Kea3EML9WVEsd-BRLs4lY9nH23M",
+      "output_filename": "eylul-080.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 81,
+      "source_filename": "hf_20261022_030921_a359b53a-3de5-4d2e-bda7-baf5d114b429.png",
+      "drive_id": "1NA1fVzrK0EAPGFsjqS9p3Zm8kCMHOi73",
+      "output_filename": "eylul-081.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 82,
+      "source_filename": "hf_20261022_024859_a17dc0cf-1cdc-4ddb-905f-e0a09f050521.png",
+      "drive_id": "1MFy2ZALFySbz4yMUf1KIHewMINtVITCP",
+      "output_filename": "eylul-082.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 83,
+      "source_filename": "hf_20261022_021343_ce90fd8b-fc0f-4c7f-a4e6-da96003fb0db.png",
+      "drive_id": "1LORXz2NkDa6tcf0ocZ76x_Fya6FcnL7M",
+      "output_filename": "eylul-083.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 84,
+      "source_filename": "hf_20261022_013732_80840117-d33f-4111-ad1f-968ad8346ef2.png",
+      "drive_id": "1LBVONiIb7-hs64laJSTjzZZCxsYuBX3y",
+      "output_filename": "eylul-084.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 85,
+      "source_filename": "hf_20261022_025232_dec46161-c83c-44c4-bb16-d416d21d83be.png",
+      "drive_id": "1Kzk6bEpJSb4UonesdSVAZYb6E9PzWN0W",
+      "output_filename": "eylul-085.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 86,
+      "source_filename": "hf_20261022_020712_ed22b7eb-0ece-4874-b724-be16a3814a3f.png",
+      "drive_id": "1KxGP_YDoIKoIuaoRUfsQxqSi3vBYiOU0",
+      "output_filename": "eylul-086.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 87,
+      "source_filename": "hf_20261022_031259_b75e5676-9610-4481-85f8-9f6ecced80a1.png",
+      "drive_id": "1KbvWKzVakdkt0ZrvhYO0y6mBho6HlKCJ",
+      "output_filename": "eylul-087.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 88,
+      "source_filename": "hf_20261022_012717_b6e9b07e-3f2a-40dd-91e9-2b0581def32e.png",
+      "drive_id": "1KVEKa6gChe0TRqDVVqcG_jdtuvsRg_lx",
+      "output_filename": "eylul-088.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 89,
+      "source_filename": "hf_20261022_025417_2cff9d61-859a-41fc-83f7-0b4c31179004.png",
+      "drive_id": "1KLK0h9LIqx2w9DB0gBhng8aZ26GwlqX5",
+      "output_filename": "eylul-089.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 90,
+      "source_filename": "hf_20261022_023848_faa891ce-bcfa-448c-a423-01face8eeaf7.png",
+      "drive_id": "1K3VhdaBy-0ftd3cpvTJ3f_RyR5I20ow9",
+      "output_filename": "eylul-090.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 91,
+      "source_filename": "hf_20261022_013601_0348dd4c-cccf-4a1d-baf7-105aa196cacc.png",
+      "drive_id": "1JB-APBv2hG1Vs-IFe8PjHstlScje1g4-",
+      "output_filename": "eylul-091.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 92,
+      "source_filename": "hf_20261022_030719_314d3519-57ca-4c76-a5af-a900498cc3a2.png",
+      "drive_id": "1Iois8BnOFpnt378cx8hcR0PfapnZuVB1",
+      "output_filename": "eylul-092.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 93,
+      "source_filename": "hf_20261022_025325_0629afe3-e08b-42b2-9889-5c315a13433a.png",
+      "drive_id": "1ISk2Cc2aD0DHLlHyLtc1DQuYLXK1TEi3",
+      "output_filename": "eylul-093.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 94,
+      "source_filename": "hf_20261022_024747_f9b45a78-40ae-42ee-8fba-00aadfd49442.png",
+      "drive_id": "1HlKH4Xf80NHdWIBKpMtLWz-2bNRvFQRB",
+      "output_filename": "eylul-094.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 95,
+      "source_filename": "hf_20261022_025734_469f5b08-ab7f-432e-a789-c3306dca4ba0.png",
+      "drive_id": "1HcFyNncDDT2EWG56uMoi_K-JPjxssR5t",
+      "output_filename": "eylul-095.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 96,
+      "source_filename": "hf_20261022_025123_d1d412fd-f309-42df-8104-95b2db838c2a.png",
+      "drive_id": "1HS8-xg1jR-3mZpDXdXfd5vWrqqcNCfaO",
+      "output_filename": "eylul-096.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 97,
+      "source_filename": "hf_20261022_013037_9aa9bf86-7025-4a85-ae94-52a9952e270c.png",
+      "drive_id": "1GcTE6NQdlCuhKzHeYCU0lyy61kXnGivb",
+      "output_filename": "eylul-097.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 98,
+      "source_filename": "hf_20261022_025858_35ff5d47-19e7-431f-b668-030f39f31549.png",
+      "drive_id": "1GMjEZaX41MfV02J56Y1mdd7Uyw9XraiX",
+      "output_filename": "eylul-098.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 99,
+      "source_filename": "hf_20261022_030452_66bd82d8-3f01-4103-b331-09b78e977789.png",
+      "drive_id": "1E_r70km8ww9btFhlTXRAawD9yE1U_hJJ",
+      "output_filename": "eylul-099.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 100,
+      "source_filename": "hf_20261022_030527_89d58209-dc6c-4013-86c6-f07e093e21c2.png",
+      "drive_id": "1EUtAfx-TFiEmqXVnlFikxFfJ6qAMcpya",
+      "output_filename": "eylul-100.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 101,
+      "source_filename": "hf_20261022_031631_0c8c047e-1c9d-4916-8bf0-cdbe67c513f9.png",
+      "drive_id": "1DzpdFvJYZhubFLppuFH4rDPNR6Abx9QZ",
+      "output_filename": "eylul-101.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 102,
+      "source_filename": "hf_20261022_031259_55835c3e-2f26-44d4-8b29-307d2b35cde8.png",
+      "drive_id": "1DuEF-sRiFEWZTfvu4cCkeqRpR7XbXcOV",
+      "output_filename": "eylul-102.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 103,
+      "source_filename": "hf_20261022_030527_bb45bd50-ac2a-48c9-9a9f-02b2f1c01d91.png",
+      "drive_id": "1DA12BkCCbhfyieSNthj9A62Cj80xMEJJ",
+      "output_filename": "eylul-103.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 104,
+      "source_filename": "hf_20261022_032158_f4081e8e-1bd1-4f40-9b0d-50e4205bd0d0.png",
+      "drive_id": "1D4xu5HY-4985vIKM2BfSLaYARe5H8MyD",
+      "output_filename": "eylul-104.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 105,
+      "source_filename": "hf_20261022_020712_9114af43-9c07-49f1-a380-9530071342df.png",
+      "drive_id": "1D-5OCJL7Ob1Ks-pfs0ZupdexBaPEi-Wg",
+      "output_filename": "eylul-105.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 106,
+      "source_filename": "hf_20261022_031749_08e86aa6-a39f-4ec1-aaab-5ae8338bc99f.png",
+      "drive_id": "1CinFjjwVcu7aMfVl95ywVlgFwFH2c3mL",
+      "output_filename": "eylul-106.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 107,
+      "source_filename": "hf_20261022_020712_9921f45f-a416-4e46-ac72-82131462babc.png",
+      "drive_id": "1CekZPzrivhtFYCb0I89YGMvNyPhHHfEd",
+      "output_filename": "eylul-107.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 108,
+      "source_filename": "hf_20261022_023221_c9f11dfe-3706-491e-b2c8-0dc560586f6a.png",
+      "drive_id": "1BtWJSSd-rMRKc8dgTtPsYY8yF_dWgXq3",
+      "output_filename": "eylul-108.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 109,
+      "source_filename": "hf_20261022_021343_1a0d7874-7270-4495-8624-650dd3ca2f10.png",
+      "drive_id": "1BG-GpFBd23K-seFaHt_UNRupDYN-IhJ-",
+      "output_filename": "eylul-109.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 110,
+      "source_filename": "hf_20261022_030248_f0e79c2d-c237-4bc4-bb4c-93b84ab36e51.png",
+      "drive_id": "1ApJckCIcuJiGB-xMXGpQEAXa8fvBDyyc",
+      "output_filename": "eylul-110.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 111,
+      "source_filename": "hf_20261022_021442_f4845718-c513-47dc-8152-2dbff0d52c83.png",
+      "drive_id": "1AlVcCJMVDBO_KeEq-xJreH6Mc4uvi6ys",
+      "output_filename": "eylul-111.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 112,
+      "source_filename": "hf_20261022_012717_6a272c3c-6043-49ad-96f3-261c227e60a0.png",
+      "drive_id": "197LenOMdxCasXy5dWwGiM-o_JZXD6yWj",
+      "output_filename": "eylul-112.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 113,
+      "source_filename": "hf_20261022_032158_9711fa78-ea16-4add-a076-8ecb8e0dd2b7.png",
+      "drive_id": "18jjT_M8Ih_p71Vush-0aD5cv43R4g3Kf",
+      "output_filename": "eylul-113.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 114,
+      "source_filename": "hf_20261022_022741_d162f303-b8bb-43b8-bc9d-f67bab47b5cb.png",
+      "drive_id": "18Cyb6gi3Q3pxuLRE7g0_mxcc-uv1m1ix",
+      "output_filename": "eylul-114.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 115,
+      "source_filename": "hf_20261022_030319_a70aeb37-18e5-4275-aa0d-18e72619ae38.png",
+      "drive_id": "17C4qCiqRdG_dobdUMmWzY0BDCe6ir3Z5",
+      "output_filename": "eylul-115.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 116,
+      "source_filename": "hf_20261022_031259_f66caf54-7643-4785-aad2-b9b1a57fc968.png",
+      "drive_id": "176OcW7QNfb0UrF5Sm_230mB7BGd8jO1B",
+      "output_filename": "eylul-116.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 117,
+      "source_filename": "hf_20261022_024859_6000fe01-29ac-4c0a-9d13-81f66c1a9e2b.png",
+      "drive_id": "17-8KKT4QNMTXoMQ6Wo8rIENjVh1yfGn2",
+      "output_filename": "eylul-117.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 118,
+      "source_filename": "hf_20261022_030104_5b98c273-d5b2-480e-99a9-a76220d657f2.png",
+      "drive_id": "16jfLM38r9E_3qEQ5X-juT6zOc4O2Z_Dm",
+      "output_filename": "eylul-118.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 119,
+      "source_filename": "hf_20261022_024629_9cc2c170-78ab-4e5a-933e-869583586525.png",
+      "drive_id": "15Tz2USDraAfhOz0zSbOsHuKBaaGrTUAf",
+      "output_filename": "eylul-119.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 120,
+      "source_filename": "hf_20261022_014143_2202461e-53b3-4182-8825-e11a3b940b96.png",
+      "drive_id": "154liMUPsTiJd_LbypDN8CzTaxGzPlOAH",
+      "output_filename": "eylul-120.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 121,
+      "source_filename": "hf_20261022_021442_463c30a8-0039-44b2-8c0c-a9de75c9ca61.png",
+      "drive_id": "14XagBAlbkZtbH3b-4XQlytQT1mQRt42Y",
+      "output_filename": "eylul-121.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 122,
+      "source_filename": "hf_20261022_022911_47e514d6-b0c6-480c-a20e-637ed5715baf.png",
+      "drive_id": "14T6tX4_FG8HQaejww3WrmH-XIWeYViPk",
+      "output_filename": "eylul-122.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 123,
+      "source_filename": "hf_20261022_030921_0fb81a11-dc94-4b85-9d43-085438fd1e70.png",
+      "drive_id": "12nKhIE048IgjvwPtkWKw7X8djl8VFE5f",
+      "output_filename": "eylul-123.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 124,
+      "source_filename": "hf_20261022_031824_4f4f0cbf-73ad-4e2d-8595-207ad2e77f97.png",
+      "drive_id": "1289QehfFKlUevA1SGcwAsEKfoY3usU6T",
+      "output_filename": "eylul-124.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 125,
+      "source_filename": "hf_20261022_020712_c8f21444-5c7a-4079-9950-66a80b1fc437.png",
+      "drive_id": "11qWinaPlyflTwgDFcxk8bNK-E3aE1k8p",
+      "output_filename": "eylul-125.jpg",
+      "editorial_review_required": false
+    },
+    {
+      "source_number": 126,
+      "source_filename": "hf_20261022_031749_93738893-d8f1-4ba9-84ff-6b26f1c3dbac.png",
+      "drive_id": "11lwk-vb9cp-7IU2d_cIhnIEHa1F0Tb5Q",
+      "output_filename": "eylul-126.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 127,
+      "source_filename": "hf_20261022_031704_e1d7d2cf-3c5f-4f90-9dba-37cccc4fc6cf.png",
+      "drive_id": "11-WTW_gbjW87-rvfHgS_EdPaJftJlqyk",
+      "output_filename": "eylul-127.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 128,
+      "source_filename": "hf_20261022_030248_ee945766-9fea-4d22-9cc0-b7dda2503ab1.png",
+      "drive_id": "10vtYQk1tOgl8CR2mgVhNHtXZiKbRV4Vd",
+      "output_filename": "eylul-128.jpg",
+      "editorial_review_required": true
+    },
+    {
+      "source_number": 129,
+      "source_filename": "hf_20261022_030452_c04b8da3-5be2-4dc9-b6cd-d9d1e2924ab7.png",
+      "drive_id": "1-xIn3TgX_98veLWwyzTUy_zWv1j8UNig",
+      "output_filename": "eylul-129.jpg",
+      "editorial_review_required": true
+    }
+  ]
+}
