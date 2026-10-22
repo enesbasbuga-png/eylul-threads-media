@@ -33,19 +33,13 @@ jobs:
             count=30
             if [ "$start" -eq 101 ]; then count=29; fi
             echo "::group::Import images ${start}..$((start+count-1))"
-            set +e
-            python scripts/import_drive.py --start "$start" --count "$count"
-            import_status=$?
-            set -e
+            python scripts/import_drive.py --start "$start" --count "$count" --continue-on-error
             git add images/
             if ! git diff --cached --quiet; then
               git commit -m "Import Eylul photos ${start}..$((start+count-1))"
               git push origin HEAD:main
             fi
             echo '::endgroup::'
-            if [ "$import_status" -ne 0 ]; then
-              echo "Some downloads in batch starting $start failed. Successful files were saved; rerun workflow to retry."
-              exit "$import_status"
-            fi
           done
-          echo 'Remaining 119 photos imported and committed.'
+          echo 'Checking all 129 images after preserving successful downloads'
+          python scripts/check_imported.py
