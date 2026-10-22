@@ -81,12 +81,12 @@ def main() -> None:
                         dest.unlink()
                     print(f"WARNING {no:03d} attempt {attempt}: {e}",file=sys.stderr,flush=True)
                     if attempt < 3:
-                        time.sleep(attempt * 3)
+                        time.sleep(attempt * 12)
         if not success:
             failed.append(no)
             print(f"ERROR {no:03d}: all attempts failed; moving to next image",
                   file=sys.stderr, flush=True)
-        time.sleep(1)
+        time.sleep(5)
     print(json.dumps({"imported":succeeded,"skipped":skipped,"failed":failed}))
     if failed and not args.continue_on_error:
         raise SystemExit("Import incomplete: please rerun this range")
