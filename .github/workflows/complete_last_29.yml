@@ -1,0 +1,54 @@
+name: Complete final 29 Eylul photos
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: eylul-media-import
+  cancel-in-progress: false
+
+jobs:
+  complete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install image tools
+        run: python -m pip install "gdown>=5,<6" "Pillow>=11,<13"
+      - name: Import only photos 101-129
+        run: python scripts/import_drive.py --start 101 --count 29 --continue-on-error
+      - name: Commit and sync with current GitHub main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add images/
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit"
+          else
+            git commit -m "Import remaining Eylul photos 101-129"
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                echo "Photos committed successfully"
+                break
+              fi
+              if [ "$attempt" -eq 5 ]; then
+                echo "Push failed after five retries" >&2
+                exit 1
+              fi
+              sleep 3
+            done
+          fi
+      - name: Verify all 129 images exist
+        run: python scripts/check_imported.py
