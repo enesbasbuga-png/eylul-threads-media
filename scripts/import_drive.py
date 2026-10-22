@@ -40,6 +40,8 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--start", type=int, default=1)
     parser.add_argument("--count", type=int, default=10)
+    parser.add_argument("--continue-on-error", action="store_true",
+                        help="Save successful imports even if some Drive files fail")
     args = parser.parse_args()
     if args.start < 1 or args.count < 1 or args.count > 50:
         parser.error("start must be positive, count must be 1..50")
@@ -82,10 +84,15 @@ def main() -> None:
                         time.sleep(attempt * 3)
         if not success:
             failed.append(no)
+            print(f"ERROR {no:03d}: all attempts failed; moving to next image",
+                  file=sys.stderr, flush=True)
         time.sleep(1)
     print(json.dumps({"imported":succeeded,"skipped":skipped,"failed":failed}))
-    if failed:
+    if failed and not args.continue_on_error:
         raise SystemExit("Import incomplete: please rerun this range")
+    if failed:
+        print(f"WARNING: failed image numbers in this batch: {failed}",
+              file=sys.stderr, flush=True)
 
 
 if __name__ == "__main__":
