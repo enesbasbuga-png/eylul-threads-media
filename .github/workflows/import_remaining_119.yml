@@ -1,0 +1,51 @@
+name: Import remaining 119 Eylul photos
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: eylul-media-import
+  cancel-in-progress: false
+
+jobs:
+  import-remaining:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install media import dependencies
+        run: python -m pip install "gdown>=5,<6" "Pillow>=11,<13"
+      - name: Import the remaining photos in restart-safe batches
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for start in 11 41 71 101; do
+            count=30
+            if [ "$start" -eq 101 ]; then count=29; fi
+            echo "::group::Import images ${start}..$((start+count-1))"
+            set +e
+            python scripts/import_drive.py --start "$start" --count "$count"
+            import_status=$?
+            set -e
+            git add images/
+            if ! git diff --cached --quiet; then
+              git commit -m "Import Eylul photos ${start}..$((start+count-1))"
+              git push origin HEAD:main
+            fi
+            echo '::endgroup::'
+            if [ "$import_status" -ne 0 ]; then
+              echo "Some downloads in batch starting $start failed. Successful files were saved; rerun workflow to retry."
+              exit "$import_status"
+            fi
+          done
+          echo 'Remaining 119 photos imported and committed.'
